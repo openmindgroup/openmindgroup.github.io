@@ -64,7 +64,7 @@
 							</a>
 						</li>
 					<% end %>
-					<li><a href="//github.com/openmindgroup/openmindgroup.github.io" target="_blank"><i class="icon-github-alt"></i> Contribute</a></li>
+					<li><a href="//github.com/openmindgroup/openmindgroup.github.io/tree/dev" target="_blank"><i class="icon-github-alt"></i> Contribute</a></li>
 				</ul>
 			</div><!--/.navbar-collapse -->
 		</div>

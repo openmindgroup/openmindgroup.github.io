@@ -3,7 +3,7 @@
 	<title>Creating together best ideas</title>
 	<link href="http://openmindgroup.github.io/atom.xml" rel="self"/>
 	<link href="http://openmindgroup.github.io"/>
-	<updated>2013-09-01T19:37:54.021Z</updated>
+	<updated>2013-09-01T20:16:09.587Z</updated>
 	<id>http://openmindgroup.github.io</id>
 	<author>
 		<name>Lucas Pereira Brígida</name>
@@ -56,7 +56,7 @@
 	cursor: wait !important;
 	opacity: 0;
 	transition: opacity 0.5s ease;
-}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
 	&lt;!-- Menu --&gt;
@@ -68,7 +68,7 @@
 					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
 					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
 				&lt;/button&gt;
-				&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Open Mind&lt;/a&gt;
+				&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Open Mind Group&lt;/a&gt;
 			&lt;/div&gt;
 			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
 				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
@@ -86,6 +86,7 @@
 							&lt;/a&gt;
 						&lt;/li&gt;
 					
+					&lt;li&gt;&lt;a href=&quot;//github.com/openmindgroup/openmindgroup.github.io&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;icon-github-alt&quot;&gt;&lt;/i&gt; Contribute&lt;/a&gt;&lt;/li&gt;
 				&lt;/ul&gt;
 			&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
 		&lt;/div&gt;
@@ -121,7 +122,7 @@
     &lt;footer&gt;
       &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col-lg-12&quot;&gt;
-          &lt;p&gt;Made in &lt;a href=&quot;http://www.google.com/search?q=brazil&quot; target=&quot;_blank&quot;&gt;Brazil&lt;/a&gt; by &lt;a href=&quot;http://mustachebrasil.com&quot; target=&quot;_blank&quot;&gt;Mustache&lt;/a&gt;.&lt;/p&gt;
+          &lt;p&gt;Made in &lt;a href=&quot;http://www.google.com/search?q=brazil&quot; target=&quot;_blank&quot;&gt;Brazil&lt;/a&gt;.&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/footer&gt;
@@ -224,7 +225,7 @@ var inject = function(){
 	cursor: wait !important;
 	opacity: 0;
 	transition: opacity 0.5s ease;
-}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
 	&lt;!-- Menu --&gt;
@@ -236,7 +237,7 @@ var inject = function(){
 					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
 					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
 				&lt;/button&gt;
-				&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Open Mind&lt;/a&gt;
+				&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Open Mind Group&lt;/a&gt;
 			&lt;/div&gt;
 			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
 				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
@@ -254,6 +255,7 @@ var inject = function(){
 							&lt;/a&gt;
 						&lt;/li&gt;
 					
+					&lt;li&gt;&lt;a href=&quot;//github.com/openmindgroup/openmindgroup.github.io&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;icon-github-alt&quot;&gt;&lt;/i&gt; Contribute&lt;/a&gt;&lt;/li&gt;
 				&lt;/ul&gt;
 			&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
 		&lt;/div&gt;
@@ -289,7 +291,7 @@ var inject = function(){
     &lt;footer&gt;
       &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col-lg-12&quot;&gt;
-          &lt;p&gt;Made in &lt;a href=&quot;http://www.google.com/search?q=brazil&quot; target=&quot;_blank&quot;&gt;Brazil&lt;/a&gt; by &lt;a href=&quot;http://mustachebrasil.com&quot; target=&quot;_blank&quot;&gt;Mustache&lt;/a&gt;.&lt;/p&gt;
+          &lt;p&gt;Made in &lt;a href=&quot;http://www.google.com/search?q=brazil&quot; target=&quot;_blank&quot;&gt;Brazil&lt;/a&gt;.&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/footer&gt;

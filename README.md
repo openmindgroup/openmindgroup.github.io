@@ -1,2 +1,0 @@
-openmindgroup.github.io
-=======================

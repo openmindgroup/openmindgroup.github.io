@@ -3,182 +3,13 @@
 	<title>Creating together best ideas</title>
 	<link href="http://openmindgroup.github.io/atom.xml" rel="self"/>
 	<link href="http://openmindgroup.github.io"/>
-	<updated>2013-09-01T20:19:08.971Z</updated>
+	<updated>2013-09-01T22:50:05.928Z</updated>
 	<id>http://openmindgroup.github.io</id>
 	<author>
 		<name>Lucas Pereira Brígida</name>
 		<email>lucasbrigida@gmail.com</email>
 	</author>
 
-	
-		<entry>
-			<title>This is a Goodbye Blog Post</title>
-			<link href="http://openmindgroup.github.io//posts/bye"/>
-			<updated>2013-09-01T02:21:29.000Z</updated>
-			<id>http://openmindgroup.github.io//posts/bye</id>
-			<content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-	&lt;!-- Meta --&gt;
-	&lt;meta charset=&quot;utf-8&quot; /&gt;
-	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
-
-	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
-		 More info: h5bp.com/i/378 --&gt;
-	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-
-	&lt;!-- Our site title and description --&gt;
-	&lt;title&gt;This is a Goodbye Blog Post | Creating together best ideas&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;Open Mind is a group to bring together people from different areas of expertise together to foster new technologies and knowledge.&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;openmind, open mind, open mind group&quot; /&gt;
-	&lt;meta name=&quot;author&quot; content=&quot;Lucas Pereira Brígida&quot; /&gt;
-
-	&lt;!-- Output DocPad produced meta elements --&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.51.6&quot; /&gt;
-
-	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
-
-	&lt;!-- Icons --&gt;
-		&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/icons/favicon.ico&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;images/icons/apple-touch-icon-144-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;images/icons/apple-touch-icon-114-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;images/icons/apple-touch-icon-72-precomposed.png&quot;&gt;
-		&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;images/icons/apple-touch-icon-57-precomposed.png&quot;&gt;
-
-	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
-	&lt;!--[if lt IE 9]&gt;
-		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-
-	&lt;!-- Styles --&gt;
-	&lt;style &gt;html.wait {
-	cursor: wait !important;
-	opacity: 0;
-	transition: opacity 0.5s ease;
-}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css&quot; /&gt;
-&lt;/head&gt;
-&lt;body&gt;
-	&lt;!-- Menu --&gt;
-	&lt;div class=&quot;navbar navbar-inverse navbar-fixed-top&quot;&gt;
-		&lt;div class=&quot;container&quot;&gt;
-			&lt;div class=&quot;navbar-header&quot;&gt;
-				&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-collapse&quot;&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-				&lt;/button&gt;
-				&lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;Open Mind Group&lt;/a&gt;
-			&lt;/div&gt;
-			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
-				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
-					&lt;li&gt;&lt;a href=&quot;/#about&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;/#agenda&quot;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;/#where&quot;&gt;Where&lt;/a&gt;&lt;/li&gt;
-					
-						&lt;li
-							typeof=&quot;sioc:Page&quot;
-							about=&quot;/pages/posts&quot;
-							class=&quot;&quot;
-						&gt;
-							&lt;a href=&quot;/pages/posts&quot; property=&quot;dc:title&quot;&gt;
-								Blog
-							&lt;/a&gt;
-						&lt;/li&gt;
-					
-					&lt;li&gt;&lt;a href=&quot;//github.com/openmindgroup/openmindgroup.github.io&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;icon-github-alt&quot;&gt;&lt;/i&gt; Contribute&lt;/a&gt;&lt;/li&gt;
-				&lt;/ul&gt;
-			&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-
-	&lt;!-- Content --&gt;
-	&lt;div class=&quot;container&quot;&gt;
-		&lt;!-- Content --&gt;
-		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
-			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
-	&lt;h1&gt;This is a Goodbye Blog Post&lt;/h1&gt;
-	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;This is a goodbye &lt;strong&gt;blog post&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/article&gt;
-
-&lt;footer&gt;
-	
-	&lt;section id=&quot;related&quot;&gt;
-		&lt;h3&gt;Related Posts&lt;/h3&gt;
-		&lt;nav class=&quot;linklist&quot;&gt;
-			
-				&lt;li&gt;&lt;span&gt;Sat Aug 31 2013&lt;/span&gt;
-				&amp;raquo;
-				&lt;a href=&quot;/posts/hello.html&quot;&gt;This is a Hello Blog Post&lt;/a&gt;&lt;/li&gt;
-			
-		&lt;/nav&gt;
-	&lt;/section&gt;
-	
-&lt;/footer&gt;
-		&lt;/section&gt;
-
-		&lt;!-- Footer --&gt;
-    &lt;footer&gt;
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-lg-12&quot;&gt;
-          &lt;p&gt;Made in &lt;a href=&quot;http://www.google.com/search?q=brazil&quot; target=&quot;_blank&quot;&gt;Brazil&lt;/a&gt;.&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/footer&gt;
-	&lt;/div&gt;&lt;!-- /container --&gt;
-
-	&lt;!-- Scripts --&gt;
-	&lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReload completed at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var primus = new Primus('/docpad-livereload');
-	primus.on('data', function(data){
-		if ( data &amp;&amp; data.message ) {
-			if ( data.message === 'generateBefore' ) {
-				if ( log ) {
-					console.log('LiveReload started at', new Date());
-				}
-				if ( typeof document.getElementsByTagName !== 'undefined' ) {
-	document.getElementsByTagName('html')[0].className += ' wait';
-}
-			}
-			else if ( data.message === 'generateAfter' ) {
-				if ( log ) {
-					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-				}
-				document.location.reload();
-			}
-		}
-	});
-};
-	/* Inject socket into our page */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = 'async';
-	t.src = '/primus/primus.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t, s);
-};
-	if ( typeof Primus !== 'undefined' ) {
-		listen();
-	} else {
-		inject();
-	}
-})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/dist/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</content>
-		</entry>
 	
 		<entry>
 			<title>This is a Hello Blog Post</title>
@@ -241,9 +72,9 @@ var inject = function(){
 			&lt;/div&gt;
 			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
 				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
-					&lt;li&gt;&lt;a href=&quot;/#about&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/#about&quot;&gt;Sobre&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;/#agenda&quot;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;/#where&quot;&gt;Where&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;/#where&quot;&gt;Onde nos reunimos&lt;/a&gt;&lt;/li&gt;
 					
 						&lt;li
 							typeof=&quot;sioc:Page&quot;
@@ -255,7 +86,7 @@ var inject = function(){
 							&lt;/a&gt;
 						&lt;/li&gt;
 					
-					&lt;li&gt;&lt;a href=&quot;//github.com/openmindgroup/openmindgroup.github.io&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;icon-github-alt&quot;&gt;&lt;/i&gt; Contribute&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;//github.com/openmindgroup&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;icon-github-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 				&lt;/ul&gt;
 			&lt;/div&gt;&lt;!--/.navbar-collapse --&gt;
 		&lt;/div&gt;
@@ -272,17 +103,6 @@ var inject = function(){
 &lt;/article&gt;
 
 &lt;footer&gt;
-	
-	&lt;section id=&quot;related&quot;&gt;
-		&lt;h3&gt;Related Posts&lt;/h3&gt;
-		&lt;nav class=&quot;linklist&quot;&gt;
-			
-				&lt;li&gt;&lt;span&gt;Sat Aug 31 2013&lt;/span&gt;
-				&amp;raquo;
-				&lt;a href=&quot;/posts/bye.html&quot;&gt;This is a Goodbye Blog Post&lt;/a&gt;&lt;/li&gt;
-			
-		&lt;/nav&gt;
-	&lt;/section&gt;
 	
 &lt;/footer&gt;
 		&lt;/section&gt;

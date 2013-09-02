@@ -3,7 +3,7 @@
 	<title>Criando juntos boas ideias</title>
 	<link href="http://openmindgroup.github.io/atom.xml" rel="self"/>
 	<link href="http://openmindgroup.github.io"/>
-	<updated>2013-09-02T02:57:18.836Z</updated>
+	<updated>2013-09-02T03:07:31.299Z</updated>
 	<id>http://openmindgroup.github.io</id>
 	<author>
 		<name>Lucas Pereira Brígida</name>
@@ -116,7 +116,7 @@
       })();
   &lt;/script&gt;
   &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-  &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;  
+  &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; 
 &lt;/article&gt;
 
 &lt;footer&gt;
@@ -181,6 +181,17 @@ var inject = function(){
 		inject();
 	}
 })();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/dist/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+	&lt;!-- Google Analytics --&gt;
+	&lt;script&gt;
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-43685022-1', 'openmindgroup.github.io');
+	  ga('send', 'pageview');
+	&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>

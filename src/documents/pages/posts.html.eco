@@ -6,8 +6,9 @@ pageOrder: 2
 
 <nav class="linklist">
 	<% for document in @getCollection('posts').toJSON(): %>
-		<li><span><%= document.date.toDateString() %></span>
-		&raquo;
-		<a href="<%= document.url %>"><%= document.title %></a></li>
+		<li class="list-unstyled">
+      <a href="<%= document.url %>"><h3><%= document.title %></h3></a>
+      <span><%= document.date.toDateString() %></span>
+      <div class="post-content"><%= String(document.content).substring(0,300) %>. <a href="<%= document.url %>">Leia mais</a></div>
 	<% end %>
-</nav>
+</nav><br><br>

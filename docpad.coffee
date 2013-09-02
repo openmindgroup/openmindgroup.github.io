@@ -21,16 +21,16 @@ docpadConfig = {
 			#]
 
 			# The default title of our website
-			title: "Creating together best ideas"
+			title: "Criando juntos boas ideias"
 
 			# The website description (for SEO)
 			description: """
-				Open Mind is a group to bring together people from different areas of expertise together to foster new technologies and knowledge.
+				Open Mind Group visa a ser um grupo de estudantes, profissionais e membros da comunidade acadêmica da Universidade Federal de Itajubá, que se reúnem com intuito de aprender, ensinar e criar soluções, produtos e serviços de grande impacto para a sociedade. Composto por membros de diversas áreas do conhecimento de forma a diminuir a distância entre a idealização e a concretização dos nossos projetos.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				openmind, open mind, open mind group
+				openmind, open mind, open mind group, coworking, coworkers
 				"""
 
 			# The website author's name

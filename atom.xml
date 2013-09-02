@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Creating together best ideas</title>
+	<title>Criando juntos boas ideias</title>
 	<link href="http://openmindgroup.github.io/atom.xml" rel="self"/>
 	<link href="http://openmindgroup.github.io"/>
-	<updated>2013-09-01T22:50:05.928Z</updated>
+	<updated>2013-09-02T01:30:49.870Z</updated>
 	<id>http://openmindgroup.github.io</id>
 	<author>
 		<name>Lucas Pereira Brígida</name>
@@ -12,10 +12,10 @@
 
 	
 		<entry>
-			<title>This is a Hello Blog Post</title>
-			<link href="http://openmindgroup.github.io//posts/hello"/>
-			<updated>2013-09-01T02:21:29.000Z</updated>
-			<id>http://openmindgroup.github.io//posts/hello</id>
+			<title>Trabalho colaborativo e o Open Mind Group</title>
+			<link href="http://openmindgroup.github.io//posts/trabalho_colaborativo_e_o_open_mind_group"/>
+			<updated>2013-09-02T01:32:10.000Z</updated>
+			<id>http://openmindgroup.github.io//posts/trabalho_colaborativo_e_o_open_mind_group</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -28,9 +28,9 @@
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 
 	&lt;!-- Our site title and description --&gt;
-	&lt;title&gt;This is a Hello Blog Post | Creating together best ideas&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;Open Mind is a group to bring together people from different areas of expertise together to foster new technologies and knowledge.&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;openmind, open mind, open mind group&quot; /&gt;
+	&lt;title&gt;Trabalho colaborativo e o Open Mind Group | Criando juntos boas ideias&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Open Mind Group visa a ser um grupo de estudantes, profissionais e membros da comunidade acadêmica da Universidade Federal de Itajubá, que se reúnem com intuito de aprender, ensinar e criar soluções, produtos e serviços de grande impacto para a sociedade. Composto por membros de diversas áreas do conhecimento de forma a diminuir a distância entre a idealização e a concretização dos nossos projetos.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;openmind, open mind, open mind group, coworking, coworkers&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;Lucas Pereira Brígida&quot; /&gt;
 
 	&lt;!-- Output DocPad produced meta elements --&gt;
@@ -97,9 +97,11 @@
 		&lt;!-- Content --&gt;
 		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
 			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
-	&lt;h1&gt;This is a Hello Blog Post&lt;/h1&gt;
-	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;This is a hello &lt;strong&gt;blog post&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
+	&lt;h1&gt;Trabalho colaborativo e o Open Mind Group&lt;/h1&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;Open Mind Group surge da necessidade de reunir pessoas de diferentes áreas em um ambiente predominantemente acadêmico e formal, com intuito de agregar novas ideias, fazer novas amizades e realizar projetos inovadores com pessoas de amplas áreas e que estão rodeados de conhecimento e novos conceitos presentes no ambiente acadêmico.&lt;/p&gt;
+&lt;p&gt;Estudantes, freelancers e acadêmicos que desejam tornar realidade projetos ainda no papel sentem a dificuldade inicial de falta de apoio, seja financeiro ou técnico para que o projeto possa se materalizar. Baseando-se no modelo coworking o Open Mind Group visa ser um grupo de coworking dentro do meio acadêmico ainda sem espaço físico porém aberto à todos assim um estudante de TI, um engenheiro, um empreendedor tem apoio do grupo para viabilizar a sua ideia contando com acessoria e mentoria dos  próprios membros, tornando um ambiente auto-sustentável.&lt;/p&gt;
+&lt;p&gt;Entenda o que é o coworking com o vídeo abaixo e inscreva-se em nossos eventos e conheça o Open Mind Group.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/n3cc8SSeRMg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;/article&gt;
 
 &lt;footer&gt;
